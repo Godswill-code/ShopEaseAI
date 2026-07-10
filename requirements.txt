@@ -1,1 +1,34 @@
+# ===============================
+# InsightPulse AI
+# Customer Sentiment Intelligence Platform
+# ===============================
 
+# Core Data Science
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+plotly
+wordcloud
+
+# Natural Language Processing
+nltk
+spacy
+langdetect
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+shap
+
+# Web Application
+streamlit
+
+# Model Monitoring & Experiment Tracking
+mlflow
+
+# Utilities
+tqdm
