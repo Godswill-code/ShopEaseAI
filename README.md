@@ -6,7 +6,7 @@
 
 <h1 align="center">
 
-InsightPulse AI
+ShopEaseAI
 
 </h1>
 
