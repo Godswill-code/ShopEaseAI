@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="ShopEase Banner.png" width="100%">
+<img src="outputs/ShopEase Banner.png" width="100%">
 
 </p>
 
@@ -92,7 +92,7 @@ InsightPulse AI provides a complete analytics pipeline that transforms raw custo
 
 <p align="center">
 
-<img src="Workflow.png" width="90%">
+<img src="outputs/Workflow.png" width="90%">
 
 </p>
 
