@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="C:\Users\godsw\Desktop\SHOPEASE REVIEW\outputs\figures\ShopEase Banner.png" width="100%">
+<img src="ShopEase Banner.png" width="100%">
 
 </p>
 
